@@ -13,14 +13,14 @@
         <div style="flex: 1; position: sticky; top: 20px;">
         
         <div class="gcse-search"></div>
-        <script async src="https://cse.google.com/cse.js?cx=YOUR_SEARCH_ENGINE_ID"></script>
+        <script async src="https://cse.google.com/cse.js?cx=f2cd889fbd8fc4cae"></script>
     </div>
         <nav>
             <ul>
-                <li><a href="/index.html">ホームへ</a></li>
-                <li><a href="/学年/小学/index.html"">小学算数</a></li>
-                <li><a href="/学年/中学/index.html">中学数学</a></li>
-                <li><a href="/学年/高校/index.html">高校数学</a></li>
+                <li><a href="/math/index.html">ホームへ</a></li>
+                <li><a href="/math/学年/小学/index.html"">小学算数</a></li>
+                <li><a href="/math/学年/中学/index.html">中学数学</a></li>
+                <li><a href="/math/学年/高校/index.html">高校数学</a></li>
                 <li><a href="#contact"> お問い合わせ</a></li>
             </ul>
         </nav>
